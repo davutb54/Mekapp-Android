@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mekapp</string>
+    <string name="username_text">User Name</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="signup_text">Create A New Profile</string>
+    <string name="forgot_password_text">Forgot Your Password?</string>
+    <string name="write_a_message_text">Write a message...</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241043630035",
+    "project_id": "meka-app-db54",
+    "storage_bucket": "meka-app-db54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241043630035:android:4533f110169227ff557126",
+        "android_client_info": {
+          "package_name": "com.davut.mekapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241043630035-mb2hnhbbb54vhr721ggdv88q0comiihm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davut.mekapp",
+            "certificate_hash": "249e3a540ca02331d42471325dd14c1a5527fed0"
+          }
+        },
+        {
+          "client_id": "241043630035-omq5u6eosf1f46vqm9lb5hoo3002v87j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMeXiqndEyGkIeZdSZmvnvSxIe5TzoN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241043630035-omq5u6eosf1f46vqm9lb5hoo3002v87j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
